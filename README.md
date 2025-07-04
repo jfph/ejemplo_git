@@ -12,4 +12,4 @@ Este es un ejemplo para la clase de Django en la [Universidad de Comfenalco Sant
 - davis seijas: [ELPROGRAMADORDEDIOS5](https:/github.com/ELPROGRAMADORDEDIOS5)
 - Mónica Arias [Mokina0715](https://github.com/Mokina0715)
 - Juan Manuel [JuanTomey](https://github.com/JuanTomey)
-
+- Jean Pinzon [jfph](https://github.com/jfph)
